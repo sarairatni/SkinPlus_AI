@@ -1,4 +1,4 @@
-# DermAssist AI - Dermatology Assistant Platform
+# Skin + AI - Dermatology Assistant Platform
 
 Platform intelligente pour assister les dermatologues en Algérie. Combine des modèles d'IA, des données environnementales en temps réel, et une interface médecin-patient intégrée.
 
